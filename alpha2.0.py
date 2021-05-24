@@ -74,7 +74,7 @@ def browser(site):#used to open the browse and search in google
     while True:   
         if ('google' in site):
             speak('openning google')
-            driver = wb.Chrome("F:\pythonProject\chromedriver.exe")
+            driver = wb.Chrome("*****CHROME DRIVER PATH****")
             driver.get(go)
             time.sleep(2)
             speak('what do you want to search sir..')
