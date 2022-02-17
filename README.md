@@ -4,16 +4,18 @@ THIS PROJECT CAN TAKE YOUR COMMAND AND EXECUTE IT
 THING THAT SHOULD BE DONE BEFORE EXECUTION IS GOVEN ARE MENTIONED BELOW:
 
 INSTALL ALL THE MODULES NEEDED:
-pip install pyttsx3
-pip install pywhatkit
-pip install wolframalpha
-pip install webbrowser
-pip install speechRecognition
-pip install wikipedia
-pip install selenium
-pip install pynput
+
+<li>pip install pyttsx3</li>
+<li>pip install pywhatkit</li>
+<li>pip install wolframalpha</li>
+<li>pip install webbrowser</li>
+<li>pip install speechRecognition</li>
+<li>pip install wikipedia</li>
+<li>pip install selenium</li>
+<li>pip install pynput</li>
 
 JUST COPY PAST THESE COMMANDS AND RUN IN YOUR TERMINAL 
+
 IF YOU FACE ANY PROBLEMS ,YOU CAN CONTACT ME OR JUST SEARCH FOR THE MODULE IN GOOGLE LIKE 'HOW TO INSTALL 'MODULE NAME'', THAT SHOULD WORK
 IN THE SEARCH FUNCTION SPECIFY THE CHROME DRIVER PATH
 
@@ -22,7 +24,7 @@ AND SPECTIF THE PATH OF RAIN METER INSIDED THE WISH ME FUNCTION
 
 INSIDE THE SEND EMAIL FUNCTION ENTER YOUR EMAIL AND PASSWORD
 
-GIVE THE CORRECT PATH WHERE YOU SEE "**** PATH ***" THE PROGRAM
+GIVE THE CORRECT PATH WHERE YOU SEE "**** PATH ***" in THE PROGRAM
 
 COMMANDS THAT CAN BE GIVEN AFTER DOING ALL THE FOLLOWING STEPS CORRECTLY:
 
