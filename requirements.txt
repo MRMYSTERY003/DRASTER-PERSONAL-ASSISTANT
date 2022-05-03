@@ -1,0 +1,7 @@
+SpeechRecognition
+pywhatkit
+pyttsx3
+wolframalpha
+wikipedia
+googlenews
+psutil
