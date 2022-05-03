@@ -161,7 +161,7 @@ def close_apps(name):
 
 
 def query_handler(question):
-    api_key = '9W52T2-28Y7L8R2Q8'
+    api_key = 'your-api-id'
     client = brain.Client(api_key)
     result = client.query(question)
     speak('analysing your query')
